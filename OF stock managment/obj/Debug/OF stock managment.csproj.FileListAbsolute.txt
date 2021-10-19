@@ -1,0 +1,76 @@
+D:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe.config
+D:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe
+D:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.pdb
+D:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csprojResolveAssemblyReference.cache
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormMain.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Properties.Resources.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csproj.GenerateResource.Cache
+D:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.exe
+D:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.pdb
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormProducts.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormTransaction.resources
+D:\OF stock managment\OF stock managment\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormAddProduct.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormLogin.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormSupplier.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormDashboard.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormEditProduct.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormExit.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe.config
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.exe
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.pdb
+C:\Users\user\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe
+C:\Users\user\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.pdb
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormMain.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormAddProduct.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormLogin.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormDashboard.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormEditProduct.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormExit.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormProducts.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormSupplier.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormTransaction.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Properties.Resources.resources
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormPurchaseTrans.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe.config
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.exe
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.pdb
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\bin\Debug\OF stock managment.pdb
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csprojResolveAssemblyReference.cache
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormMain.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormPurchaseTrans.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormAddProduct.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormLogin.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormDashboard.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormEditProduct.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormExit.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormProducts.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormSupplier.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormTransaction.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Properties.Resources.resources
+C:\Users\Nuredin\OneDrive\Desktop\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csproj.GenerateResource.Cache
+E:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe.config
+E:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.exe
+E:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.pdb
+E:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.exe
+E:\OF stock managment\OF stock managment\bin\Debug\OF stock managment.pdb
+E:\OF stock managment\OF stock managment\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csprojResolveAssemblyReference.cache
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormMain.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormPurchaseTrans.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormAddProduct.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormLogin.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormDashboard.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormEditProduct.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormExit.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormProducts.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormSupplier.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormTransaction.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Properties.Resources.resources
+E:\OF stock managment\OF stock managment\obj\Debug\OF stock managment.csproj.GenerateResource.Cache
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.FormPurchaseTrans.resources
+D:\OF stock managment\OF stock managment\obj\Debug\OF_stock_managment.Forms.FormAddSupplier.resources
